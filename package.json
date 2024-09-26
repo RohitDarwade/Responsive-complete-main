@@ -1,0 +1,14 @@
+{
+  "name": "Rohit Darwade)",
+  "version": "1.0.0",
+  "description": "Portfolio contact form",
+  "main": "assets/js/server.js",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "nodemailer": "^6.9.15",
+    "xlsx": "^0.18.5"
+  },
+  "author": "Rohit Darwade",
+  "license": "ISC"
+}
